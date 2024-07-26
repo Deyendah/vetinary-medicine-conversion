@@ -1,4 +1,4 @@
-# Vetinary Medicine Medicine Conversion Calculator
+# Vetinary Medicine Conversion Calculator
 This program is being developed in two stages. 
 The first will be the basic calculator function, while the second half will make
 specific accomodations for certain medications that will be filled out in a database.
